@@ -22,8 +22,7 @@ I used this challenge to reinforce HTML & CSS skills
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QRCode](https://johna28.github.io/QR-Code-Component/)
 
 
 ### Built with
